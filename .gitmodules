@@ -1,0 +1,3 @@
+[submodule "webauthv2"]
+	path = webauthv2
+	url = https://github.com/leomcclean/webauthv2.git
